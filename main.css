@@ -1,0 +1,19 @@
+body{
+    background-size:cover;
+    background-image:url(360_F_461232389_XCYvca9n9P437nm3FrCsEIapG4SrhufP.jpg)
+}
+
+.searchBar{
+    text-align:center;
+    margin-top:20px;
+}
+
+.form-control{
+    width:25%;
+    margin:auto;
+    margin-top:10px;
+}
+
+/* .card{
+
+} */
